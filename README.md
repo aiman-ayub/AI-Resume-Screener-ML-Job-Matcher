@@ -1,4 +1,4 @@
-# AI Resume Screener + ML Job Matcher 🎯
+# AI Resume Screener + ML Job Matcher 
 An intelligent resume screening system that uses Natural Language Processing (NLP) and Machine Learning to match resumes with job descriptions. Built with Python and Streamlit, this project helps automate the initial shortlisting process for recruiters and job seekers.
 
 ## Features
