@@ -1,0 +1,6 @@
+job_id,job_title,required_skills,description
+1,Data Analyst Intern,"Python, Pandas, SQL, Data Visualization",Analyze structured data using Python libraries like Pandas and visualize insights using tools such as Matplotlib and Seaborn.
+2,AI Research Intern,"Machine Learning, Python, Scikit-learn, TensorFlow",Assist in developing AI models for prediction and classification tasks using Python and ML frameworks.
+3,Web Developer Intern,"HTML, CSS, JavaScript, Git","Create responsive and accessible front-end web applications using HTML5, CSS3, and modern JavaScript."
+4,Full Stack Developer Intern,"Node.js, React.js, MongoDB, Express.js",Work on both frontend and backend tasks to develop a complete web application using MERN stack.
+5,NLP Intern,"NLP, NLTK, spaCy, Text Classification","Perform natural language processing tasks like text cleaning, tokenization, and classification using NLTK and spaCy."
