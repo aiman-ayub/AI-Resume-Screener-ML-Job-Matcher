@@ -19,9 +19,6 @@ An intelligent resume screening system that uses Natural Language Processing (NL
 ## Install Requirements
 pip install -r requirements.txt
 
-## Run 
-streamlit run app.py
-
 
 
 
